@@ -1,4 +1,4 @@
-Body {
+body {
   height: 100%;
   background-color: #FF0000; /* For browsers that do not support gradients */
   background-image: linear-gradient(#FF0000, #000000); /* Standard syntax (must be last) */
