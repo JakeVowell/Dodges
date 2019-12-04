@@ -1,3 +1,7 @@
+<a href="locations.html">Locations</a>
+
+
+
 $('.panel-collapse').on('show.bs.collapse', function () {
    $(this).siblings('.panel-heading').addClass('active');
  });
